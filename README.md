@@ -3,7 +3,6 @@
 
 - 🤔 Sou colaborativo e procuro evoluir a todo momento
 - 💬 Trabalhos em grupos e atividades dinâmicas
-- 📫 How to reach me: ...
 
 
 
