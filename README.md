@@ -31,6 +31,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christiangsn&theme=radical&show_icons=true);
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Christiangsn)](https://github.com/anuraghazra/github-readme-stats);
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christiangsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
