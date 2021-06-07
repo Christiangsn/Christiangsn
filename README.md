@@ -3,7 +3,6 @@
 <ul>
     <li>My name is Christian!</li>
     <li>nodeJS Developer </li>
-    <li>Possui pequenas experiências e busco procurando oportunidade e emergir de vez na área</li>
 </ul>
 
 <p align="center"> 
