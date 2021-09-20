@@ -5,32 +5,55 @@
     <li>nodeJS Developer </li>
 </ul>
 
+
+
+<!-- <div class="row">
+  <div class="col-lg-12">
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=laurensius&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+  </div>
+</div> -->
+<div class="row">
+  <div class="col-lg-6">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiangsn&hide_border=true&layout=compact" align="center" />  
+    </div>
+  </div>
+  <div class="col-lg-6">
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Christiangsn&show_icons=true&count_private=true&hide_border=true" align="center" />
+    </div>
+  </div>
+</div>
+
 <p align="center"> 
     <h4 align="left">:gear: <b>|</b> Skills </h4> 
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a><a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<p align="center"> 
-    <h4 align="left">📖  <b>|</b>  Studying </h4> 
-</p>
-<p align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="npm" width="40" height="40"/> </a>  
- <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> </a>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-</p>
+<br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christiangsn&theme=radical&show_icons=true);
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christiangsn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDb" height="50" />  
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>  
+  
+
+<br/>  
+
+  
+
+<br />
+
+----
+
 
 
 
