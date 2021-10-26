@@ -1,59 +1,69 @@
-## Bem vindo ao meu perfil, Sou o Christian :) ! 👋
+## Hello World, I'm Christian <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" align="center" height="40"/>  
 
-<ul>
-    <li>My name is Christian!</li>
-    <li>nodeJS Developer </li>
-</ul>
+:mailbox: Reach me out!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiangsn)](https://www.linkedin.com/in/christiangsn)
+[![Mail Badge](https://img.shields.io/badge/-christianguimaraes1996@gmail.com-c0392b?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/christiangsn)](mailto:christianguimaraes1996@gmail.com)
 
+- I'm focusing on Web-Development (NodeJS)
+- I love coding and the javascript universe ;)
 
-<!-- <div class="row">
-  <div class="col-lg-12">
-    <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=laurensius&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-  </div>
-</div> -->
-<div class="row">
-  <div class="col-lg-6">
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiangsn&hide_border=true&layout=compact" align="center" />  
-    </div>
-  </div>
-  <div class="col-lg-6">
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Christiangsn&show_icons=true&count_private=true&hide_border=true" align="center" />
-    </div>
-  </div>
+ <h3>Linguagens e Tecnologias </h3>
+ <div style="display: inline_block">
+  <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Lari-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Lari-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Lari-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"/>
+    <img align="center" alt="Lari-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
 </div>
 
-<p align="center"> 
-    <h4 align="left">:gear: <b>|</b> Skills </h4> 
-</p>
+## Projects
 
-<br/>
+<table>
+  <tr>
+    <td width="300" >Backend </td>
+     <td width="300">FrontEnd</td>
+     <td width="300" >Mobile</td>
+     <td width="300" >WebScrapping</td>
+  </tr>
+  <tr>
+    <td height="50">
+        <ul> - <a href="https://khalilstemmler.com/articles/domain-driven-design-intro/"> API - Heat </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/api-schoolofenglish"> API - English of School </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/pokedex"> API - Pokedex JS </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/nlw_typescrypt/tree/master/src"> API - Socket.io Chat </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/backend_facustextil"> API - Site Focus </a> </ul>
+         <ul> - <a href="https://github.com/Christiangsn/pub_marcao-backend"> API - Open Bar </a> </ul>
+     </td>
+    <td height="50">
+        <ul> - <a href="https://github.com/Christiangsn/flappy_birdJS"> Game - Flappy Bird </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/pakcman_gameJS"> Game - Packman </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/frontend_heat"> Front - Heat </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/let-me-ask"> Front - Letmeask </a> </ul>
+        <ul> - <a href="https://github.com/Christiangsn/twitter-clone"> Front - Interface Twitter </a> </ul>
+         <ul> - <a href="https://github.com/Christiangsn/pub_marcao-frontend"> Front - Open Bar </a> </ul>
+     </td>
+    <td>
+        <ul> - <a href="https://github.com/Christiangsn/React_Native_Heat"> Mobile - Heat </a> </ul>
+    </td>
+     <td>
+         <ul> - <a href=""> Instagram Photos </a> </ul>
+     </td>
+  </tr>
+ </table>
 
+</div>
 
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDb" height="50" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>  
-  
+ <div>
+  <a href="https://github.com/Christiangsn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christiangsn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiangsn&layout=compact&langs_count=15&theme=monokai"/>
+<div>
 
-<br/>  
+#### Business
 
-  
-
-<br />
-
-----
-
-
-
-
+- :email: christianguimaraes1996@gmail.com
