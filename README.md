@@ -21,40 +21,6 @@
     <img align="center" alt="Lari-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
 </div>
 
-## Projects
-
-<table>
-  <tr>
-    <td width="300" >Backend </td>
-     <td width="300">FrontEnd</td>
-     <td width="300" >Mobile</td>
-     <td width="300" >WebScrapping</td>
-  </tr>
-  <tr>
-    <td height="50">
-        <ul> - <a href="https://khalilstemmler.com/articles/domain-driven-design-intro/"> API - Heat </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/api-schoolofenglish"> API - English of School </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/pokedex"> API - Pokedex JS </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/nlw_typescrypt/tree/master/src"> API - Socket.io Chat </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/backend_facustextil"> API - Site Focus </a> </ul>
-         <ul> - <a href="https://github.com/Christiangsn/pub_marcao-backend"> API - Open Bar </a> </ul>
-     </td>
-    <td height="50">
-        <ul> - <a href="https://github.com/Christiangsn/flappy_birdJS"> Game - Flappy Bird </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/pakcman_gameJS"> Game - Packman </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/frontend_heat"> Front - Heat </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/let-me-ask"> Front - Letmeask </a> </ul>
-        <ul> - <a href="https://github.com/Christiangsn/twitter-clone"> Front - Interface Twitter </a> </ul>
-         <ul> - <a href="https://github.com/Christiangsn/pub_marcao-frontend"> Front - Open Bar </a> </ul>
-     </td>
-    <td>
-        <ul> - <a href="https://github.com/Christiangsn/React_Native_Heat"> Mobile - Heat </a> </ul>
-    </td>
-     <td>
-         <ul> - <a href=""> Instagram Photos </a> </ul>
-     </td>
-  </tr>
- </table>
 
 </div>
 
